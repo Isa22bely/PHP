@@ -1,0 +1,45 @@
+* {
+    font-family: Inter;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-weight: 400;
+}
+
+header{
+    display: flex;
+    background-color: #191d5c;
+    
+}
+
+header a {
+    text-decoration:none ;
+    color: beige;
+}
+
+header h3{
+    color: beige;
+}
+
+.poster{
+    height: 300px; ;
+    background-color: #707399;
+    position: relative;
+    
+       
+}
+
+.poster p{
+   position: absolute;
+   top: 49%;
+   left: 40%;
+   
+  
+}
+
+.poster h1{
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
