@@ -1,4 +1,31 @@
+.todoscard{
+    display: flex;
+    height: 300px;
+    align-items: flex-start;
+    justify-content: center;
+}
+
 .card{
-    width: 50%;
+    width: 200px;
+    height: 150px;
     border-style: groove;
+}
+
+.card h3{
+    padding: 4px;
+}
+
+.card p{
+    padding: 4px;
+}
+
+.card button{
+    background-color: black;
+    padding: 2px;
+}
+
+.card button a{
+    text-decoration: none;
+    color: blanchedalmond;
+    padding: 4px;
 }

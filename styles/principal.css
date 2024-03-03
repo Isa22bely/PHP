@@ -16,10 +16,12 @@ header{
 header a {
     text-decoration:none ;
     color: beige;
+    padding: 13px;
 }
 
 header h3{
     color: beige;
+    padding: 10px;
 }
 
 .poster{
